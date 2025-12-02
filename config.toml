@@ -1,6 +1,6 @@
 baseURL = "https://LukeAndrews.github.io/"
 languageCode = "en-us"
-title = "Luke Andrews' Apple Blog"
+title = "Luke Andrews - Mac Administration"
 theme = "PaperMod"
 
 # Enable this for sidebar/search/social/etc.
